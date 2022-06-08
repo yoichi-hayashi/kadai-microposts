@@ -1,0 +1,8 @@
+=> [34;4mApp\Micropost[39;24m {#4279
+     [34mcontent[39m: "[32mmicropost test[39m",
+     [34muser_id[39m: [35m1[39m,
+     [34mupdated_at[39m: "[32m2022-06-08 20:16:32[39m",
+     [34mcreated_at[39m: "[32m2022-06-08 20:16:32[39m",
+     [34mid[39m: [35m1[39m,
+   }
+

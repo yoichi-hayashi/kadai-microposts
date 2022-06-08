@@ -1,0 +1,11 @@
+=> [34;4mApp\User[39;24m {#4280
+     [34mid[39m: [35m1[39m,
+     [34mname[39m: "[32mtest[39m",
+     [34memail[39m: "[32mtest@test.com[39m",
+     [34memail_verified_at[39m: [36mnull[39m,
+     #[33mpassword[39m: "[32m$2y$10$hBDebxk/zcJ/mKP6aXJN1OfFdM7IY7uk/4QSseumJGwZoeN2LAbdO[39m",
+     #[33mremember_token[39m: [36mnull[39m,
+     [34mcreated_at[39m: "[32m2022-06-06 17:38:12[39m",
+     [34mupdated_at[39m: "[32m2022-06-06 17:38:12[39m",
+   }
+
